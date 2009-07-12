@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use utf8;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
     ADDI      => 'Arnar Mar Hrafnkelsson',
