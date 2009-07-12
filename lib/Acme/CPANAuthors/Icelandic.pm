@@ -61,7 +61,8 @@ Now listing B<4> Icelandic CPAN authors:
 
 =head1 SEE ALSO
 
-L<Acme::CPANAuthors::Acme::CPANAuthors>
+L<Acme::CPANAuthors::Acme::CPANAuthors::Authors>
+
 L<http://search.cpan.org/search?query=Acme%3A%3ACPANAuthors&mode=all>
 
 =head1 BUGS
