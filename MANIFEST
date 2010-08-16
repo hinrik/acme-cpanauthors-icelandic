@@ -1,8 +1,0 @@
-Changes
-INSTALL
-MANIFEST
-lib/Acme/CPANAuthors/Icelandic.pm
-t/00_compile.t
-t/90_pod.t
-t/91_pod_coverage.t
-Makefile.PL
