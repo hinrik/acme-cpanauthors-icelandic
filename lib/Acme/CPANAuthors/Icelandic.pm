@@ -1,7 +1,7 @@
 package Acme::CPANAuthors::Icelandic;
 
-use warnings;
 use strict;
+use warnings FATAL => 'all';
 use utf8;
 
 use Acme::CPANAuthors::Register (

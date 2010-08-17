@@ -1,5 +1,6 @@
 {{$NEXT}}
     - Use Dist::Zilla
+    - Make all warnings fatal
 
 0.02 Sat Jul 11 23:51:38 EDT 2009
     - Fix some Pod links
