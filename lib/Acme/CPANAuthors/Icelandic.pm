@@ -12,7 +12,6 @@ use Acme::CPANAuthors::Register (
 );
 
 1;
-__END__
 
 =encoding UTF-8
 
