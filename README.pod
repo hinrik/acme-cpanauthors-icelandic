@@ -1,18 +1,3 @@
-package Acme::CPANAuthors::Icelandic;
-
-use strict;
-use warnings FATAL => 'all';
-use utf8;
-
-use Acme::CPANAuthors::Register (
-    ADDI      => 'Arnar Mar Hrafnkelsson',
-    AVAR      => 'Ævar Arnfjörð Bjarmason',
-    HINRIK    => 'Hinrik Örn Sigurðsson',
-    HRAFNKELL => 'Hrafnkell Freyr Hlöðversson',
-);
-
-1;
-
 =encoding utf8
 
 =head1 NAME
