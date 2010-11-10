@@ -1,4 +1,5 @@
 {{$NEXT}}
+    - Added cpan:BALDUR (Baldur Kristinsson)
 
 0.03  Tue Aug 17 22:30:24 GMT 2010
     - Use Dist::Zilla

@@ -26,18 +26,19 @@ the C<Acme::CPANAuthors|Acme::CPANAuthors> module.
 
 =head1 MAINTENANCE
 
-If you are a Icelandic CPAN author not listed here, please send me your
-ID/name via email or RT so we I always keep this module up to date.
+If you are an Icelandic CPAN author not listed here, please send me your
+ID/name via email or RT so I can keep this module up to date.
 
-And if you aren't a Icelandic CPAN author listed here, please send me your
-ID/name via email or RT and I will remove your name.
+And if you are not and Icelandic CPAN author but still listed here, please
+send me your ID/name via email or RT and I will remove your name.
 
 =head1 CONTAINED AUTHORS
 
-Now listing B<4> Icelandic CPAN authors:
+Now listing B<5> Icelandic CPAN authors:
 
  ADDI      => 'Arnar Mar Hrafnkelsson',
  AVAR      => 'Ævar Arnfjörð Bjarmason',
+ BALDUR    => 'Baldur Kristinsson',
  HINRIK    => 'Hinrik Örn Sigurðsson',
  HRAFNKELL => 'Hrafnkell Freyr Hlöðversson',
 
