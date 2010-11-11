@@ -1,4 +1,6 @@
 {{$NEXT}}
+
+0.04  Thu Nov 11 20:09:34 GMT 2010
     - Added cpan:BALDUR (Baldur Kristinsson)
     - Moved author tests to xt/
 
